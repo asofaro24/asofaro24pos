@@ -17,7 +17,7 @@ export const products: Product[] = [
     category: 'printer',
     name: 'Impresora Térmica XP-80',
     description: 'Impresora térmica de alta velocidad para punto de venta',
-    price: 450000,
+    price: 200000,
     image: 'https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=500&q=60',
     stock: 15,
     specifications: [
